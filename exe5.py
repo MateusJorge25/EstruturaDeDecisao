@@ -13,5 +13,5 @@ if media >= 7:
 if media < 7:
     print("Reprovado")
 
-elif media > 7 <= 10:
+if media > 7 <= 10:
     print("Aprovado com Distinção") 
